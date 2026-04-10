@@ -6,6 +6,7 @@ public class FileTest1 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Ading file from sinior tester");
+		System.out.println("Ading file from Juior tester");
 
 	}
 
