@@ -7,6 +7,8 @@ public class File1 {
 		
 		System.out.println("Pranit");
 		System.out.println("Pranit1");
+		System.out.println("Pranit2");
+	
 
 	}
 
