@@ -7,10 +7,15 @@ public class File1 {
 		
 		System.out.println("Pranit");
 		System.out.println("This is Yogesh");
+		System.out.println("Adding this line to create a conflict");
 		System.out.println("Pranit1");
 		System.out.println("This is Yogesh2");
+		System.out.println("Adding second line to create a conflict");
 		System.out.println("Pranit2");
 		System.out.println("This is Yogesh3");
+		System.out.println("Adding third line to create a conflict");
+		System.out.println("Adding to Feature1");
+
 	
 
 	}
